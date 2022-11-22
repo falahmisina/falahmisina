@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "harajofil.py",
+    name = "falahmisina.py",
     version = "0.1",
-    py_modules = ['harajofil'],
-    url = "https://github.com/harajofil/harajofil.git",
-    author = "harajofil",
+    py_modules = ['falahmisina'],
+    url = "https://github.com/falahmisina/falahmisina.git",
+    author = "falahmisina",
     install_requires = ["pyngrok"]
 )
